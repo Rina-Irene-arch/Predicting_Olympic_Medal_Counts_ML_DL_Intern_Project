@@ -1,4 +1,4 @@
-# Predicting_Olympic_Medal_Counts_ML_DL_Intern_Project
+# Predicting Olympic Medal Counts | ML-DL Intern Project
 
 ### Project Overview
 In this project, you will be explored basic machine learning (ML) and deep learning (DL) techniques to predict the number of Olympic medals a country will win. The dataset provided includes features such as GDP, population, and sports index, along with the actual number of medals won. You will build and evaluate different models to understand which factors are most influential in predicting Olympic success.
@@ -37,17 +37,12 @@ The [dataset] includes 14 columns:
    - Neural Network: Build a basic feedforward neural network using a library like TensorFlow or Keras. Experiment with different architectures, such as varying the number of layers and neurons.
    - Hyperparameter Tuning: Adjust hyperparameters (e.g., learning rate, number of epochs) to optimize model performance.
 5. **Model Evaluation**
-o Performance Metrics: Evaluate the performance of all models using
-MAE, Mean Squared Error (MSE), and R-squared.
-o Model Comparison: Compare the performance of machine learning
-models (Linear Regression, Decision Trees, Random Forest) with deep
-learning models (Neural Networks).
-6. Interpretation and Insights
-o Feature Importance: Analyze which features are most influential in
-predicting the number of medals.
-o Model Interpretation: Discuss the results of different models and what
-they reveal about the factors affecting Olympic success.
-7. Documentation and Presentation
-o Report: Write a detailed report covering data preprocessing, model
-building, evaluation, and insights. Include visualizations and
-explanations.
+   - Performance Metrics: Evaluate the performance of all models using MAE, Mean Squared Error (MSE), and R-squared.
+   - Model Comparison: Compare the performance of machine learning models (Linear Regression, Decision Trees, Random Forest) with deep learning models (Neural Networks).
+6. **Interpretation and Insights**
+   - Feature Importance: Analyze which features are most influential in predicting the number of medals.
+   - Model Interpretation: Discuss the results of different models and what they reveal about the factors affecting Olympic success.
+7. **Documentation and Presentation**
+   - Report: Write a detailed report covering data preprocessing, model building, evaluation, and insights. Include visualizations and explanations.
+
+
