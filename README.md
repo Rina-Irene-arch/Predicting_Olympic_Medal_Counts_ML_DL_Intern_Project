@@ -43,6 +43,6 @@ The [dataset](https://github.com/Rina-Irene-arch/Predicting_Olympic_Medal_Counts
    - Feature Importance: Analyze which features are most influential in predicting the number of medals.
    - Model Interpretation: Discuss the results of different models and what they reveal about the factors affecting Olympic success.
 7. **Documentation and Presentation**
-   - Report: Write a detailed report covering data preprocessing, model building, evaluation, and insights. Include visualizations and explanations.
+   - [Report](https://github.com/Rina-Irene-arch/Predicting_Olympic_Medal_Counts_ML_DL_Intern_Project/blob/main/Predicting_Olympic_Medal_Counts_ML_DL_Project.pdf): Write a detailed report covering data preprocessing, model building, evaluation, and insights. Include visualizations and explanations.
 
 
