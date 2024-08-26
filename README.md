@@ -1,7 +1,7 @@
 # Predicting Olympic Medal Counts | ML-DL Intern Project
 
 ### Project Overview
-In this project, you will be explored basic machine learning (ML) and deep learning (DL) techniques to predict the number of Olympic medals a country will win. The dataset provided includes features such as GDP, population, and sports index, along with the actual number of medals won. You will build and evaluate different models to understand which factors are most influential in predicting Olympic success.
+In this [project](https://github.com/Rina-Irene-arch/Predicting_Olympic_Medal_Counts_ML_DL_Intern_Project/blob/main/Predicting_Olympic_Medal_Counts_ML_DL_Project.ipynb), you will be explored basic machine learning (ML) and deep learning (DL) techniques to predict the number of Olympic medals a country will win. The dataset provided includes features such as GDP, population, and sports index, along with the actual number of medals won. You will build and evaluate different models to understand which factors are most influential in predicting Olympic success.
 
 ### Dataset Description
 The [dataset](https://github.com/Rina-Irene-arch/Predicting_Olympic_Medal_Counts_ML_DL_Intern_Project/blob/main/olympic_medals.csv) includes 14 columns:
